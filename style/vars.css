@@ -1,0 +1,19 @@
+/* Figma Styles of your File */
+:root {
+  /* Colors */
+  --: #ffefef;
+  --: #b9e0e0;
+  --: #a66cff;
+  --: #ffffff;
+  --: #e95390;
+  --: linear-gradient(
+    153.85deg,
+    rgba(233, 83, 144, 0) 0%,
+    rgba(233, 83, 144, 0.2) 100%
+  );
+  --: #e4e7ed;
+
+  /* Fonts */
+
+  /* Effects */
+}
