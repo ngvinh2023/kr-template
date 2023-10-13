@@ -18,6 +18,15 @@
   position: relative;
 }
 
+.vector-77 {
+  margin-top: 16px;
+  margin-bottom: 16px;
+  height: 2px;
+  background-color: #ffffff;
+  width: 80%;
+  margin: auto;
+}
+
 .rectangle-36 {
   background: #ffffff;
   border-style: solid;
